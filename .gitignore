@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.so
 
+
 # Jupyter
 .ipynb_checkpoints/
 
@@ -14,3 +15,4 @@ __pycache__/
 # *.csv
 # output.csv
 *.png
+NCCdataset/
